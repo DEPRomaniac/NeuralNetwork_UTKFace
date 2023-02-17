@@ -1,5 +1,5 @@
 # NeuralNetwork_UTKFace
-trained NN model based on UTKFace dataset utilizing Keras and Tensorflow
+Race recognition using deep neural networks on UTKFace dataset
 
 ## Tasks completed
 1. Utilized/Mobilized Keras and Tensorflow to train NN model. Data preprocesing done using grayscaling and one-hot-encoding.
